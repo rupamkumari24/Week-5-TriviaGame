@@ -1,0 +1,78 @@
+body {
+	background-color: #915AC0;
+	font-family: Verdana;
+	font-size: 14px;
+
+	/*color: #808080;*/
+}
+
+#MainContent{
+	background-color: #f4d941;
+	text-align: center;
+
+}
+
+h1{
+	font-weight: bold;
+}
+
+/* Game */
+
+#trivia {
+    display: block;
+    margin: auto;
+    width: 25em;
+    height: 5em;
+}
+
+.main {
+    margin: auto;
+    color: #EDE01C;
+    font-family: Verdana;
+    font-size: 18px;
+    text-align: center;
+    width: 30em;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.time {
+    color: red;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    width: 50%;
+    margin: auto;
+    font-size: 18px;
+    background: #912AC0;
+    color: inherit;
+    margin: 10px;
+    border: 1px solid black;
+    font-family: Verdana;
+}
+
+button:hover {
+    background: #4D147E !important;
+}
+
+#ansImg {
+	width: 20em;
+    height: 10em;
+    margin-bottom: 10px;
+}
+
+
+/* Game*/
+#footer{
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+	margin-top: 15px;
+}
